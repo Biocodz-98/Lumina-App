@@ -1,0 +1,1 @@
+Lumina Creative website is a photography website that talks about various services and how they operate. Also lightbox were added images through the links to enhance and add smooth transition when the image is clicked
